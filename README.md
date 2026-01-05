@@ -14,7 +14,7 @@ I'm a **Mathematics and Computer Science** student at the **University of Rwanda
 - 🌱 Learning: **Advanced algorithms, cloud architecture, and DevOps**
 - 💡 Interests: **Data structures, optimization, web security, and UI/UX design**
 - 📍 Location: **Kigali, Rwanda**
-- 📫 Reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me: **[hodaliroger1@gmail.com](mailto:hodaliroger1@gmail.com)**
 
 ---
 
