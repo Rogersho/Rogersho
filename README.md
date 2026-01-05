@@ -60,16 +60,26 @@ I'm a **Mathematics and Computer Science** student at the **University of Rwanda
   - SEO-optimized with meta tags and sitemap
 - **Highlights**: Migrated backend from Node.js to PHP, implemented HTTPS redirect, optimized for production deployment
 
-### 📊 [Project Name 2]
-*Brief description of another project*
-- **Tech Stack**: Technologies used
-- **Key Features**: Main functionalities
-- **Live Demo**: [Link if available]
+### 📁 [ItekaVault - Secure File Storage Platform](https://itekavault.com)
+**Cloud-based file storage and sharing platform**
+- **Tech Stack**: React, Node.js, Cloud Storage
+- **Features**:
+  - Secure file upload and storage
+  - File organization and management
+  - Sharing capabilities with access control
+  - User authentication and authorization
+- **Live Demo**: [itekavault.com](https://itekavault.com)
 
-### 🎯 [Project Name 3]
-*Brief description*
-- **Tech Stack**: Technologies used
-- **Key Features**: Main functionalities
+### 📱 [QR-Based Smart Attendance System](https://github.com/Rogersho/SmartAttend)
+**Mobile attendance tracking system using QR codes**
+- **Tech Stack**: Flutter, Firebase, QR Code Generation
+- **Features**:
+  - Real-time attendance tracking
+  - QR code generation for sessions
+  - Teacher and student dashboards
+  - Location-based verification
+  - Attendance reports and analytics
+- **Use Case**: Designed for educational institutions to streamline attendance management
 
 ---
 
